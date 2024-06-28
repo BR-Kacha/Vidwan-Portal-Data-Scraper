@@ -30,7 +30,7 @@ Faculty Data Scraper is a Python tool that automatically collects and organizes 
 - `Vidwan_Data Scraping.py`: The main Python script for the application.
 - `input_file_format.xlsx`: Sample input file format.
 - `output_sample.xlsx`: Sample output file with name, designation, and portal ID removed for privacy reasons.
-- `Vidwan Project Time Lapse.mp4`: A timelapse recording of the development process.
+
 
 ## Notes
 - Make sure to download the suitable ChromeDriver version for your Chrome browser.
